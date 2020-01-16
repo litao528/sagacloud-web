@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <image preserveAspectRatio="none" style="overflow:visible" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAWtJREFUOBGlk8FqwkAURSeDNiRiK0HJLitbVyEb6da/KP2Xrv2X0r9wK9lIVraushNF0gaVVEmaMzDSBkWld5HMe3PvS968O4aoIIqiJ8uyXmzb7pmmecN2lmXfm81mut1uh77vv/2WGDoIw/Cu1WqNO53OfVEUh7ze520YRrFYLD6SJHns9/ufKscDseu6cbPZvCUG+/1erNdrtW40GqJWq6k1jzRNv+bzuUcRleXLWrzb7cRkMhGr1eogYOE4jgiCQNTrdQG3bGtcpnsGPXue98pvIx6NRiLP8z9iHUgpxWAwUEVoJ47jZ8mB6Z758ikxRdiDA9CglZw2CXqu/jb5KuDABWilHpU+sKrgWKy5aOUxwjU5iUkQMKpLobloJQ5DyJwZ1TnA0Z5AK7EnI0HInBnVKbAHB6BRWoLZbDZtt9sPrC8xErzlcvne7XZ7yol4uzxRZWWcVlr0rJXRUOhwaf51maikce11/gFkRNTbomO+5AAAAABJRU5ErkJggg==" x="0px" y="0px" />
+    <path d="M 8 0.5  C 12.2 0.5  15.5 3.8  15.5 8  C 15.5 12.2  12.2 15.5  8 15.5  C 3.8 15.5  0.5 12.2  0.5 8  C 0.5 3.8  3.8 0.5  8 0.5  Z " stroke-width="1" stroke="#cccccc" fill="none" />
+  </g>
+</svg>
