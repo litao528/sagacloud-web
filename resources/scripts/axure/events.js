@@ -1016,11 +1016,23 @@ $axure.internal(function ($ax) {
             var map = dObj.interactionMap;
             // Attach synthetic drag and swipe events
             if(map && (map.onDragStart || map.onDrag || map.onDragDrop || map.onSwipeLeft || map.onSwipeRight || map.onSwipeUp || map.onSwipeDown)) {
-                $element.bind($ax.features.eventNames.mouseDownName,
-                    function (e) {
-                        if (!e.originalEvent.donotdrag) $ax.registerTouchCount(e);
-                        $ax.drag.StartDragWidget(e.originalEvent, elementId);
-                    });
+                if(isDynamicPanel) {
+                    var diagrams = dObj.diagrams;
+                    for(var i = 0; i < diagrams.length; i++) {
+                        var panelId = $ax.repeater.applySuffixToElementId(elementId, '_state' + i);
+                        var panel = document.getElementById(panelId);
+                        panel.addEventListener($ax.features.eventNames.mouseDownName, function (e) {
+                            $ax.drag.StartDragWidget(e, elementId);
+                        });
+                    }
+                } else {
+                    $element.bind($ax.features.eventNames.mouseDownName,
+                        function (e) {
+                            $ax.drag.StartDragWidget(e.originalEvent, elementId);
+                            // if (!e.originalEvent.donotdrag) $ax.registerTouchCount(e);
+                            // $ax.drag.StartDragWidget(e.originalEvent, elementId);
+                        });
+                }
             }
 
             // Attach dynamic panel synthetic scroll event
