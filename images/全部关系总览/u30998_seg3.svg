@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="20px" preserveAspectRatio="xMinYMid meet" viewBox="1414 1822  21 18" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="210px" preserveAspectRatio="xMidYMin meet" viewBox="2016 595  8 210" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip246">
-      <path d="M 1740.683 1816  L 1857.317 1816  L 1857.317 1846  L 1740.683 1846  Z M 1411 1816  L 2049 1816  L 2049 1978  L 1411 1978  Z " fill-rule="evenodd" />
+    <mask fill="white" id="clip240">
+      <path d="M 1800 774  L 1920 774  L 1920 826  L 1800 826  Z M 1546 590  L 2040 590  L 2040 875  L 1546 875  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <path d="M 1423 1831  L 1940 1831  A 5 5 0 0 1 1945 1836 L 1945 1963  A 5 5 0 0 0 1950 1968 L 2037 1968  " stroke-width="2" stroke="#0099cc" fill="none" mask="url(#clip246)" />
-  <path d="M 1424.5 1827.5  A 3.5 3.5 0 0 0 1421 1831 A 3.5 3.5 0 0 0 1424.5 1834.5 A 3.5 3.5 0 0 0 1428 1831 A 3.5 3.5 0 0 0 1424.5 1827.5 Z M 2031.89289321881 1963.70710678119  L 2036.18578643763 1968  L 2031.89289321881 1972.29289321881  L 2033.30710678119 1973.70710678119  L 2038.30710678119 1968.70710678119  L 2039.01421356237 1968  L 2038.30710678119 1967.29289321881  L 2033.30710678119 1962.29289321881  L 2031.89289321881 1963.70710678119  Z " fill-rule="nonzero" fill="#0099cc" stroke="none" mask="url(#clip246)" />
+  <path d="M 1558 865  L 1561 865  A 5 5 0 0 0 1566 860 L 1566 805  A 5 5 0 0 1 1571 800 L 2015 800  A 5 5 0 0 0 2020 795 L 2020 605  A 5 5 0 0 1 2025 600 L 2028 600  " stroke-width="2" stroke="#0099cc" fill="none" mask="url(#clip240)" />
+  <path d="M 1559.5 861.5  A 3.5 3.5 0 0 0 1556 865 A 3.5 3.5 0 0 0 1559.5 868.5 A 3.5 3.5 0 0 0 1563 865 A 3.5 3.5 0 0 0 1559.5 861.5 Z M 2022.89289321881 595.707106781187  L 2027.18578643763 600  L 2022.89289321881 604.292893218813  L 2024.30710678119 605.707106781187  L 2029.30710678119 600.707106781187  L 2030.01421356237 600  L 2029.30710678119 599.292893218813  L 2024.30710678119 594.292893218813  L 2022.89289321881 595.707106781187  Z " fill-rule="nonzero" fill="#0099cc" stroke="none" mask="url(#clip240)" />
 </svg>

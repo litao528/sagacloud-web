@@ -39717,3 +39717,33 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u3711_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:10px;
+  height:10px;
+}
+#u3711 {
+  border-width:0px;
+  position:absolute;
+  left:459px;
+  top:10100px;
+  width:10px;
+  height:10px;
+  display:flex;
+}
+#u3711 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u3711_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
