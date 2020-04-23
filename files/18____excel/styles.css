@@ -16,6 +16,48 @@
   position:absolute;
   z-index:0;
 }
+#u33663_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+#u33663 {
+  border-width:0px;
+  position:absolute;
+  left:25px;
+  top:18px;
+  width:140px;
+  height:40px;
+  display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+#u33663 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u33663_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
 #u33664_div {
   border-width:0px;
   position:absolute;
@@ -37,7 +79,7 @@
 #u33664 {
   border-width:0px;
   position:absolute;
-  left:25px;
+  left:187px;
   top:18px;
   width:140px;
   height:40px;
@@ -54,48 +96,6 @@
   width:100%;
 }
 #u33664_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u33665_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:140px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
-  font-weight:400;
-  font-style:normal;
-}
-#u33665 {
-  border-width:0px;
-  position:absolute;
-  left:187px;
-  top:18px;
-  width:140px;
-  height:40px;
-  display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
-  font-weight:400;
-  font-style:normal;
-}
-#u33665 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u33665_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

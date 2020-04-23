@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u33657_div {
+#u33656_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +34,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u33657 {
+#u33656 {
   border-width:0px;
   position:absolute;
   left:11px;
@@ -45,6 +45,35 @@
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
+}
+#u33656 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u33656_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u33657_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1254px;
+  height:547px;
+}
+#u33657 {
+  border-width:0px;
+  position:absolute;
+  left:11px;
+  top:92px;
+  width:1254px;
+  height:547px;
+  display:flex;
 }
 #u33657 .text {
   position:absolute;
@@ -57,38 +86,9 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-}
-#u33658_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1254px;
-  height:547px;
-}
-#u33658 {
-  border-width:0px;
-  position:absolute;
-  left:11px;
-  top:92px;
-  width:1254px;
-  height:547px;
-  display:flex;
-}
-#u33658 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u33658_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
   visibility:hidden;
 }
-#u33659_div {
+#u33658_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -107,7 +107,7 @@
   font-style:normal;
   font-size:20px;
 }
-#u33659 {
+#u33658 {
   border-width:0px;
   position:absolute;
   left:11px;
@@ -120,14 +120,14 @@
   font-style:normal;
   font-size:20px;
 }
-#u33659 .text {
+#u33658 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u33659_text {
+#u33658_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="34px" height="34px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -871 -538 )">
-    <path d="M 888 538  C 897.52 538  905 545.48  905 555  C 905 564.52  897.52 572  888 572  C 878.48 572  871 564.52  871 555  C 871 545.48  878.48 538  888 538  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 888 538.5  C 897.24 538.5  904.5 545.76  904.5 555  C 904.5 564.24  897.24 571.5  888 571.5  C 878.76 571.5  871.5 564.24  871.5 555  C 871.5 545.76  878.76 538.5  888 538.5  Z " stroke-width="1" stroke="#d7d7d7" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -881 -548 )">
+    <path d="M 13.7375 2.0125  C 13.9125 2.1875  14 2.3625  14 2.625  C 14 2.8875  13.9125 3.0625  13.7375 3.2375  L 12.6 4.375  L 9.625 1.4  L 10.7625 0.2625  C 10.9375 0.0875  11.1125 0  11.375 0  C 11.6375 0  11.8125 0.0875  11.9875 0.2625  L 13.7375 2.0125  Z M 0.2625 10.7625  L 8.4 2.625  L 11.375 5.6  L 3.2375 13.7375  C 3.0625 13.9125  2.8875 14  2.625 14  L 0.875 14  C 0.35 14  0 13.65  0 13.125  L 0 11.375  C 0 11.1125  0.0875 10.9375  0.2625 10.7625  Z " fill-rule="nonzero" fill="#d7d7d7" stroke="none" transform="matrix(1 0 0 1 881 548 )" />
   </g>
 </svg>
