@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="26px" height="26px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip581">
+      <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 11.7714283145224 0  14.8625151973683 2.49458524948011  15.7459636610575 5.95645876095989  C 15.9119449590551 6.60687164021152  16 7.29142831452236  16 8  C 16 12.48  12.48 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " fill-rule="evenodd" />
+    </mask>
+    <filter x="303px" y="441px" width="26px" height="26px" filterUnits="userSpaceOnUse" id="filter582">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget583">
+      <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 11.7714283145224 0  14.8625151973683 2.49458524948011  15.7459636610575 5.95645876095989  C 15.9119449590551 6.60687164021152  16 7.29142831452236  16 8  C 16 12.48  12.48 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" transform="matrix(1 0 0 1 307 445 )" />
+      <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 11.7714283145224 0  14.8625151973683 2.49458524948011  15.7459636610575 5.95645876095989  C 15.9119449590551 6.60687164021152  16 7.29142831452236  16 8  C 16 12.48  12.48 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 307 445 )" mask="url(#clip581)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -303 -441 )">
+    <use xlink:href="#widget583" filter="url(#filter582)" />
+    <use xlink:href="#widget583" />
+  </g>
+</svg>
