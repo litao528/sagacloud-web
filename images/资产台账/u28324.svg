@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="26px" height="26px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip848">
+    <mask fill="white" id="clip987">
       <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 12.48 0  16 3.51999999999998  16 8  C 16 9.39441480542655  15.6589872585218 10.6958261359045  15.054155479389 11.8270402876097  C 13.715773259381 14.330210524192  11.0855851945735 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " fill-rule="evenodd" />
     </mask>
-    <filter x="2890px" y="378px" width="26px" height="26px" filterUnits="userSpaceOnUse" id="filter849">
+    <filter x="2890px" y="378px" width="26px" height="26px" filterUnits="userSpaceOnUse" id="filter988">
       <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
     </filter>
-    <g id="widget850">
+    <g id="widget989">
       <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 12.48 0  16 3.51999999999998  16 8  C 16 9.39441480542655  15.6589872585218 10.6958261359045  15.054155479389 11.8270402876097  C 13.715773259381 14.330210524192  11.0855851945735 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" transform="matrix(1 0 0 1 2894 382 )" />
-      <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 12.48 0  16 3.51999999999998  16 8  C 16 9.39441480542655  15.6589872585218 10.6958261359045  15.054155479389 11.8270402876097  C 13.715773259381 14.330210524192  11.0855851945735 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 2894 382 )" mask="url(#clip848)" />
+      <path d="M 0 8  C 0 3.51999999999998  3.51999999999998 0  8 0  C 12.48 0  16 3.51999999999998  16 8  C 16 9.39441480542655  15.6589872585218 10.6958261359045  15.054155479389 11.8270402876097  C 13.715773259381 14.330210524192  11.0855851945735 16  8 16  C 3.51999999999998 16  0 12.48  0 8  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 2894 382 )" mask="url(#clip987)" />
     </g>
   </defs>
   <g transform="matrix(1 0 0 1 -2890 -378 )">
-    <use xlink:href="#widget850" filter="url(#filter849)" />
-    <use xlink:href="#widget850" />
+    <use xlink:href="#widget989" filter="url(#filter988)" />
+    <use xlink:href="#widget989" />
   </g>
 </svg>
